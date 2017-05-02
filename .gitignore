@@ -1,7 +1,7 @@
 /coverage
 node_modules
-/dist
+#/dist
 /build
-/lib
+#/lib
 .idea
 npm-debug.log
